@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Swansea';
+	src: url('swansea-webfont.woff2') format('woff2'),
+		url('swansea-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Swansea';
+	src: url('swansea_bold-webfont.woff2') format('woff2'),
+		url('swansea_bold-webfont.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
